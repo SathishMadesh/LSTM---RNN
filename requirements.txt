@@ -1,11 +1,8 @@
-tensorflow==2.20.0
-protobuf<=3.20.3
+tensorflow
 pandas
 numpy
 scikit-learn
 matplotlib
 streamlit
-altair<5
-standard-imghdr
 ipykernel
 nltk
